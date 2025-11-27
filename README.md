@@ -28,8 +28,8 @@ Health Planet APIから体組成計のデータを取得し、CSVファイルに
 
 ### 1. リポジトリのクローン
 
-git clone https://github.com/yourusername/health-planet-gui.git
-cd health-planet-gui
+git clone https://github.com/riichinakano/healthplanetapp.git
+cd healthplanetapp
 
 
 
@@ -97,7 +97,7 @@ python gui_app.py
 
 ## 📂 ファイル構成
 
-health-planet-gui/
+healthplanetapp/
 ├── gui_app.py # メインのGUIアプリケーション
 ├── health_planet_api.py # Health Planet API接続クラス
 ├── data_exporter.py # データエクスポート機能
@@ -166,11 +166,6 @@ A: 保存先フォルダの書き込み権限を確認してください。
 
 このプロジェクトはMITライセンスの下で公開されています。詳細は[LICENSE](LICENSE)ファイルを参照してください。
 
-## 👨‍💻 作者
-
-- **作成者**: [Your Name]
-- **連絡先**: [your.email@example.com]
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
 
 ## 🤝 コントリビューション
 
