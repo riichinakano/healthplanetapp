@@ -1,0 +1,18 @@
+# 認証情報ファイル
+config.json
+.env
+
+# Pythonキャッシュファイル
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# IDE/エディタ設定
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db

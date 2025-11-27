@@ -1,0 +1,19 @@
+APIの設定
+
+Client ID for client applications
+Client ID	
+34598.m7vBiTh8B6.apps.healthplanet.jp
+
+Edit Settings
+Reset Client secret
+Delete Client ID
+
+Client secret	
+1756531927637-BUTLfuzZZBsPKj5eRGmIdt5nkrLlSERsJKEYX7Pj
+
+Domain	
+localhost
+
+
+Code
+zxmX6wvMinZNk65dkxCbJIEXu69c0rpHSIVqDO5xXF5tO
